@@ -1,8 +1,0 @@
-7
-52E:\Github Repositories\watchis.github.io\.prettierrc132817755838773808 0
-45E:\Github Repositories\watchis.github.io\dist132817768683437655 1
-51E:\Github Repositories\watchis.github.io\index.html132817754944361315 0
-50E:\Github Repositories\watchis.github.io\README.md132817750084646067 0
-79E:\Github Repositories\watchis.github.io\dist\watchis.github.io.45ee5e70.js.map132817768683427654 0
-75E:\Github Repositories\watchis.github.io\dist\watchis.github.io.45ee5e70.js132817768683427654 0
-56E:\Github Repositories\watchis.github.io\dist\index.html132817768683247597 0
